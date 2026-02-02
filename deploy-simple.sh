@@ -6,7 +6,7 @@ set -e
 # Configurações
 REGION="us-east-1"
 ECR_REPO="bia"
-CLUSTER="cluster-bia"
+CLUSTER="bia"
 SERVICE="service-bia"
 TASK_FAMILY="task-def-bia"
 
